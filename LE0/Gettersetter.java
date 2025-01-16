@@ -25,7 +25,7 @@ class Juet{
     }
 }
 
-public class Main
+public class Gettersetter
 {
 	public static void main(String[] args) {
 		Juet student1= new Juet();
